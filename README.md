@@ -9,7 +9,7 @@ My goal is to develop BCI systems that empower users with physical limitations, 
 * **Restoring Interaction:** Enabling communication and movement through digital avatars for those with limited physical mobility.
 
 ##  Project Overview
-This decoder serves as the "Brain" for a future real-time 3D bone-model control project in Blender/Unity.
+This prototype decodes brain signals (EEG) to distinguish between **Left Hand** and **Right Hand** motor imagery. This decoding logic will serve as the "Brain" for my future 3D bone-model control project in Blender/Unity.
 
 ### **Technical Stack**
 * **Language:** Python 3.x
@@ -35,5 +35,3 @@ This high accuracy demonstrates that the decoder is stable and ready for real-ti
 [ ] Phase 3: Multi-Action & Multi-Class Expansion
 
 
----
-*"This isn't just a project; it's a prototype for the future of human-machine interaction."*
