@@ -9,7 +9,11 @@ My goal is to develop BCI systems that empower users with physical limitations, 
 * **Restoring Interaction:** Enabling communication and movement through digital avatars for those with limited physical mobility.
 
 ##  Project Overview
-This prototype decodes brain signals (EEG) to distinguish between **Left Hand** and **Right Hand** motor imagery. This decoding logic will serve as the "Brain" for my future 3D bone-model control project in Blender/Unity.
+This prototype serves as a high-precision neural decoder, achieving 94.83% accuracy in classifying Left Hand and Right Hand motor imagery.
+
+Beyond simple classification, this logic functions as the "Neural Core" (The Brain) for an integrated BCI system. It is designed to bridge raw neural oscillations with digital execution, providing the foundational control layer for:
+**Real-time 3D Avatar Control:** Directly driving skeletal transforms in Blender/Unity.
+**Neuro-rehabilitation:** Facilitating the recovery of stroke patients through intentional movement visualization.
 
 ### **Technical Stack**
 * **Language:** Python 3.x
