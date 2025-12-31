@@ -34,8 +34,8 @@ Beyond simple classification, this logic functions as the "Neural Core" (The Bra
 This high accuracy demonstrates that the decoder is stable and ready for real-time system integration.
 
 ##  Project Roadmap
-[x] Phase 1: Foundation & Baseline Decoding(current)
-[ ] Phase 2: Deep Learning & Real-time 3D Integration
+*[x] Phase 1: Foundation & Baseline Decoding(current)*<br>
+[ ] Phase 2: Deep Learning & Real-time 3D Integration<br>
 [ ] Phase 3: Multi-Action & Multi-Class Expansion
 
 
